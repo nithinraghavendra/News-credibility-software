@@ -40,7 +40,8 @@ If you want to re-train the model locally:
 3. Run `main.py` to regenerate the trained model (`model.pkl`) and vectorizer (`vectorizer.pkl`)[cite: 3].
 
 ---
-
+# 📰 DEMO
+🔗 **Live Demo:** [Click here to test the live app](https://news-credibility-software-g7ylgeoakqzec5kep4ozqf.streamlit.app/)
 
 1. **Clone the repository:**
    ```bash
